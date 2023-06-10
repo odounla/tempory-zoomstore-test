@@ -30,7 +30,7 @@ const CheckoutForm = () => {
   const stripe = useStripe();
   const elements = useElements();
 
-  const cartStyle = {
+  const cardStyle = {
     style: {
       base: {
         color: "#32325d",
@@ -106,7 +106,7 @@ const CheckoutForm = () => {
       <form id="payment-form" onSubmit={handleSubmit}>
         <CartElement
           id="cart-element"
-          options={cartStyle}
+          options={cardStyle}
           onChange={handleChange}
         />
         <button disabled={processing || disabled || succeeded} id="submit">
@@ -122,8 +122,8 @@ const CheckoutForm = () => {
         )}
         {/*  Show a success message upon completion */}
         <p className={succeeded ? "result-message" : "result-message hidden"}>
-          payment succeeded, see the result in your{" "}
-          <a href={`https://dashboard,stripe.com/test/payments`}>
+          payment succeeded, see the result in your
+          <a href={`https://dashboard.stripe.com/test/payments`}>
             Stripe dashboard.
           </a>
         </p>
