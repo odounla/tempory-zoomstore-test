@@ -12,9 +12,10 @@ const Services = () => {
             are only for you
           </h3>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-            Voluptates, ea. Perferendis corrupti reiciendis nesciunt rerum velit
-            autem unde numquam nisi
+            At Zoom Store, an e-commerce platform, we employ a range of
+            specialized equipment to facilitate the smooth operation and
+            management of our clothing inventory. Here are some key equipment
+            commonly used in our clothing e-commerce setup
           </p>
         </article>
         <div className="services-center">
