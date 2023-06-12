@@ -8,9 +8,10 @@ const Contact = () => {
         <h3>Join our newsletter and get 20% off</h3>
         <div className="content">
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-            Voluptates, ea. Perferendis corrupti reiciendis nesciunt rerum velit
-            autem unde numquam nisi
+            We appreciate your interest in staying connected with us at Zoom
+            Store. As a token of our gratitude, we are excited to offer you an
+            exclusive deal! Sign up for our newsletter today and receive a
+            fantastic 20% discount on your next purchase.
           </p>
           <form action="" className="contact-form">
             <input
