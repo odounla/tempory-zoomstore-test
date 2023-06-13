@@ -22,12 +22,12 @@ const AboutPage = () => {
             possibilities to customers worldwide. With unwavering determination,
             they founded Zoom Store, an e-commerce platform like no other. Zoom
             Store began its journey as a small virtual marketplace, offering a
-            curated selection of cutting-edge electronics. Customers quickly
-            discovered the convenience of shopping from the comfort of their
-            homes, enjoying the thrill of exploring a vast array of products at
-            their fingertips. The team at Zoom Store knew they were onto
-            something special, and they were determined to build upon this
-            initial success.
+            curated selection of cutting-edge, sportwear, sneakers, cloths , and
+            electronics. Customers quickly discovered the convenience of
+            shopping from the comfort of their homes, enjoying the thrill of
+            exploring a vast array of products at their fingertips. The team at
+            Zoom Store knew they were onto something special, and they were
+            determined to build upon this initial success.
           </p>
         </article>
       </Wrapper>
