@@ -15,17 +15,19 @@ const AboutPage = () => {
             <div className="underline"></div>
           </div>
           <p>
-            IPhone tote bag tumeric pok pok VHS vape irony locavore migas palo
-            santo coloring book. Wayfarers kinfolk knausgaard, four dollar toast
-            tattooed bushwick sustainable crucifix enamel pin taxidermy
-            try-hard. Ramps iceland trust fund actually health goth. Affogato
-            XOXO chartreuse humblebrag, meditation iceland tacos wayfarers
-            kitsch master cleanse.Direct trade coloring book listicle tousled
-            banh mi. Sriracha thundercats street art af. Tbh lo-fi vinyl poke,
-            woke prism VHS iceland trust fund man bun. Jean shorts fam kale
-            chips cold-pressed, cloud bread poutine selvage listicle photo booth
-            trust fund kombucha single-origin coffee raclette. Mustache green
-            juice brooklyn wolf banjo church-key food truck pickled fixie.
+            Once upon a time, in a bustling digital landscape, there was a
+            visionary team of entrepreneurs who set out to revolutionize the way
+            people shop. They dreamed of creating an extraordinary online
+            shopping experience that would bring joy, convenience, and limitless
+            possibilities to customers worldwide. With unwavering determination,
+            they founded Zoom Store, an e-commerce platform like no other. Zoom
+            Store began its journey as a small virtual marketplace, offering a
+            curated selection of cutting-edge electronics. Customers quickly
+            discovered the convenience of shopping from the comfort of their
+            homes, enjoying the thrill of exploring a vast array of products at
+            their fingertips. The team at Zoom Store knew they were onto
+            something special, and they were determined to build upon this
+            initial success.
           </p>
         </article>
       </Wrapper>
