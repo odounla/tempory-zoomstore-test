@@ -12,7 +12,14 @@ const Hero = () => {
           buy your <br />
           dream accessories
         </h1>
-        <p>We help you find your dream accesories, or what fit you the most</p>
+        <p>
+          We help you find your dream accesories, or what fit you the most. Zoom
+          Store is to redefine e-commerce by empowering connection, providing
+          unrivaled convenience, offering limitless possibilities, delivering
+          exemplary customer service, and embracing innovation. We aspire to
+          create a shopping destination that brings joy, fulfillment, and
+          seamless interactions to customers worldwide.
+        </p>
         <Link to="/products" className="btn hero-btn">
           shop now
         </Link>
