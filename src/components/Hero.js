@@ -10,7 +10,7 @@ const Hero = () => {
       <article className="content">
         <h1>
           buy your <br />
-          dream accessories
+          dream accessories and goodies
         </h1>
         <p>
           We help you find your dream accesories, or what fit you the most. Zoom
