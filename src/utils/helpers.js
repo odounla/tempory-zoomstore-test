@@ -1,7 +1,7 @@
 export const formatPrice = (number) => {
   const newNumber = Intl.NumberFormat("en-US", {
     style: "currency",
-    currency: "USD",
+    currency: "XAF",
   }).format(number / 100);
   return newNumber;
 };
